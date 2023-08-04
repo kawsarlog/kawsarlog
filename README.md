@@ -4,9 +4,9 @@
 💬 Ask me about anything, i am happy to help :) <br>
 
 ## 🚀 About Me
-🙋‍♂️ I’m a skilled professional with several years of experience working in web scraping, web automation, and web development. I've worked on various platforms such as Fiverr.com, Upwork.com, and for individual companies. My expertise includes designing and implementing efficient and effective solutions to complex web-related challenges. <br>
+I’m a skilled professional with several years of experience working in web scraping, web automation, and web development. I've worked on various platforms such as Fiverr.com, Upwork.com, and for individual companies. My expertise includes designing and implementing efficient and effective solutions to complex web-related challenges. <br>
 
-💻 My passion lies in the development of automated systems that help businesses streamline their operations and improve their bottom line. I'm always ready to take on any challenge related to my work, whether it's creating custom web crawlers, building complex APIs, or developing dynamic websites and applications.
+My passion lies in the development of automated systems that help businesses streamline their operations and improve their bottom line. I'm always ready to take on any challenge related to my work, whether it's creating custom web crawlers, building complex APIs, or developing dynamic websites and applications.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawsarlog&show_icons=true&locale=en&layout=compact" alt="kawsarlog" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kawsarlog&show_icons=true&locale=en" alt="kawsarlog" /></p>
