@@ -1,4 +1,6 @@
-## Hi 👋, I'm Kawsar</h1>
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
+## I'm Kawsar</h1>
 🖊️ Love to **Write code**  <br> 
 📝 Website [https://kawsarlog.com/](https://kawsarlog.com/)  <br> 
 💬 Ask me about anything, i am happy to help :) <br>
