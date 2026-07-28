@@ -71,17 +71,6 @@ Most people find me after another scraper broke, got blocked, or buckled the mom
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawsarlog&show_icons=true&hide_border=true&theme=default" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarlog&layout=compact&hide_border=true&theme=default" alt="top langs" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarlog&hide_border=true" alt="streak" height="160"/>
-</p>
-
 ## Connect
 
 <p align="left">
