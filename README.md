@@ -13,7 +13,7 @@
 
 I've extracted **15M+ records** for clients across real estate, healthcare, and e-commerce, without getting blocked once.
 
-For 9+ years I've built Python scrapers and automation that pull clean, structured data from the platforms most tools choke on: Zillow, Realtor.com, LoopNet, Crexi, Amazon, and more. If it sits behind a login, a CAPTCHA, or a messy private API, I've probably already cracked it.
+For 9+ years, I've built Python scrapers and automation that pull clean, structured data from the platforms most tools choke on: Zillow, Realtor.com, LoopNet, Crexi, Amazon, and more. If it sits behind a login, a CAPTCHA, or a messy private API, I've probably already cracked it.
 
 **What I build:**
 - Custom scrapers, Selenium, Playwright, curl_cffi, Apify actors
@@ -56,6 +56,11 @@ Most people find me after another scraper broke, got blocked, or buckled the mom
 - Apify actors for real estate, e-commerce, and lead-gen
 - Async pipelines processing 100K+ records per run with proxy rotation and resume capability
 - LLM-powered extraction and enrichment on top of raw scraped data
+- Processing datasets containing 10M+ records with horizontally scalable workers
+- Designing resilient scraping systems with 99%+ job completion rates
+- Optimizing scraping costs through intelligent caching, concurrency control, and adaptive throttling
+- Building enterprise-grade monitoring with logging, metrics, alerts, and execution dashboards
+- Architecting reusable scraping frameworks powering dozens of independent data collection projects
 
 ---
 
@@ -63,7 +68,7 @@ Most people find me after another scraper broke, got blocked, or buckled the mom
 
 | The situation | What I do |
 |---|---|
-| "The site blocks our scraper" | Anti-bot bypass — Cloudflare, CAPTCHA, fingerprinting |
+| "The site blocks our scraper" | Anti-bot bypass, Cloudflare, CAPTCHA, fingerprinting |
 | "We need 100K rows, not 100" | Async, proxy-rotating pipelines that scale and resume |
 | "The data's behind a private API" | Reverse-engineer it, pull it clean |
 | "We need leads, not raw HTML" | Verified B2B & real estate lists, deduped and structured |
