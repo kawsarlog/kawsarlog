@@ -79,7 +79,7 @@ Most people find me after another scraper broke, got blocked, or buckled the mom
 ## Connect
 
 <p align="left">
-<a href="https://twitter.com/kawsarlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawsarlog" height="30" width="40" /></a>
+<a href="https://x/KawsarInsights" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawsarlog" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kawsarlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kawsarlog" height="30" width="40" /></a>
 <a href="https://fb.com/kawsarlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kawsarlog" height="30" width="40" /></a>
 <a href="https://instagram.com/kawsarlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kawsarlog" height="30" width="40" /></a>
